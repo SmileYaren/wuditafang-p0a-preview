@@ -1,0 +1,41 @@
+
+jinbi.png
+size: 64,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinbi_0
+  rotate: false
+  xy: 1, 16
+  size: 22, 34
+  orig: 42, 54
+  offset: 10, 10
+  index: -1
+jinbi_1
+  rotate: false
+  xy: 1, 51
+  size: 30, 34
+  orig: 50, 54
+  offset: 10, 10
+  index: -1
+jinbi_2
+  rotate: false
+  xy: 1, 86
+  size: 33, 34
+  orig: 53, 54
+  offset: 10, 10
+  index: -1
+jinbi_3
+  rotate: false
+  xy: 1, 121
+  size: 34, 34
+  orig: 54, 54
+  offset: 10, 10
+  index: -1
+jinbi_7
+  rotate: true
+  xy: 1, 1
+  size: 14, 33
+  orig: 34, 53
+  offset: 10, 10
+  index: -1

@@ -1,0 +1,83 @@
+
+rrsbai.png
+size: 240,776
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rrs_huo1
+  rotate: false
+  xy: 118, 184
+  size: 119, 180
+  orig: 119, 180
+  offset: 0, 0
+  index: -1
+rrs_huo2
+  rotate: false
+  xy: 0, 185
+  size: 116, 182
+  orig: 116, 182
+  offset: 0, 0
+  index: -1
+rrs_huo3
+  rotate: false
+  xy: 120, 0
+  size: 120, 182
+  orig: 120, 182
+  offset: 0, 0
+  index: -1
+rrs_huo4
+  rotate: false
+  xy: 0, 369
+  size: 116, 175
+  orig: 116, 175
+  offset: 0, 0
+  index: -1
+rrs_huo5
+  rotate: false
+  xy: 118, 366
+  size: 114, 178
+  orig: 114, 178
+  offset: 0, 0
+  index: -1
+rrs_huo6
+  rotate: false
+  xy: 0, 2
+  size: 118, 180
+  orig: 118, 180
+  offset: 0, 0
+  index: -1
+rrs_shenti
+  rotate: false
+  xy: 145, 666
+  size: 84, 107
+  orig: 84, 108
+  offset: 0, 1
+  index: -1
+rrs_tou1
+  rotate: false
+  xy: 64, 546
+  size: 156, 118
+  orig: 164, 126
+  offset: 4, 4
+  index: -1
+rrs_tou2
+  rotate: false
+  xy: 0, 588
+  size: 62, 107
+  orig: 70, 115
+  offset: 4, 4
+  index: -1
+rrs_youshou
+  rotate: false
+  xy: 0, 697
+  size: 71, 76
+  orig: 74, 79
+  offset: 1, 1
+  index: -1
+rrs_zuoshou
+  rotate: false
+  xy: 73, 691
+  size: 70, 82
+  orig: 73, 86
+  offset: 2, 3
+  index: -1

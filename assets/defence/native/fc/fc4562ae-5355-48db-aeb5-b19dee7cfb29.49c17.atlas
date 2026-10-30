@@ -1,0 +1,76 @@
+
+dian_buff.png
+size: 738,54
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff/2_0
+  rotate: false
+  xy: 0, 0
+  size: 72, 54
+  orig: 72, 54
+  offset: 0, 0
+  index: -1
+buff/2_1
+  rotate: false
+  xy: 74, 0
+  size: 72, 54
+  orig: 72, 54
+  offset: 0, 0
+  index: -1
+buff/2_2
+  rotate: false
+  xy: 148, 0
+  size: 72, 54
+  orig: 72, 54
+  offset: 0, 0
+  index: -1
+buff/2_3
+  rotate: false
+  xy: 222, 0
+  size: 72, 54
+  orig: 72, 54
+  offset: 0, 0
+  index: -1
+buff/2_4
+  rotate: false
+  xy: 296, 0
+  size: 72, 54
+  orig: 72, 54
+  offset: 0, 0
+  index: -1
+buff/2_5
+  rotate: false
+  xy: 370, 0
+  size: 72, 54
+  orig: 72, 54
+  offset: 0, 0
+  index: -1
+buff/2_6
+  rotate: false
+  xy: 444, 0
+  size: 72, 54
+  orig: 72, 54
+  offset: 0, 0
+  index: -1
+buff/2_7
+  rotate: false
+  xy: 518, 0
+  size: 72, 54
+  orig: 72, 54
+  offset: 0, 0
+  index: -1
+buff/2_8
+  rotate: false
+  xy: 592, 0
+  size: 72, 54
+  orig: 72, 54
+  offset: 0, 0
+  index: -1
+buff/2_9
+  rotate: false
+  xy: 666, 0
+  size: 72, 54
+  orig: 72, 54
+  offset: 0, 0
+  index: -1

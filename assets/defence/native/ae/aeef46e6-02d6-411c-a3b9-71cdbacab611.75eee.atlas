@@ -1,0 +1,145 @@
+
+laotou.png
+size: 1351,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lt_geboL
+  rotate: false
+  xy: 988, 90
+  size: 88, 114
+  orig: 108, 134
+  offset: 10, 10
+  index: -1
+lt_mao2
+  rotate: false
+  xy: 1166, 156
+  size: 185, 48
+  orig: 199, 61
+  offset: 7, 6
+  index: -1
+lt_maoB
+  rotate: false
+  xy: 988, 2
+  size: 204, 86
+  orig: 218, 98
+  offset: 7, 7
+  index: -1
+lt_meiL
+  rotate: false
+  xy: 688, 9
+  size: 28, 16
+  orig: 48, 36
+  offset: 10, 10
+  index: -1
+lt_meiR
+  rotate: false
+  xy: 644, 7
+  size: 42, 18
+  orig: 62, 38
+  offset: 10, 10
+  index: -1
+lt_qd
+  rotate: false
+  xy: 1078, 102
+  size: 86, 102
+  orig: 100, 113
+  offset: 8, 6
+  index: -1
+lt_shen
+  rotate: false
+  xy: 0, 4
+  size: 320, 200
+  orig: 320, 204
+  offset: 0, 3
+  index: -1
+lt_shenB
+  rotate: false
+  xy: 322, 4
+  size: 320, 200
+  orig: 320, 204
+  offset: 0, 3
+  index: -1
+lt_shouL
+  rotate: false
+  xy: 1166, 91
+  size: 72, 63
+  orig: 92, 83
+  offset: 10, 10
+  index: -1
+lt_shouR
+  rotate: false
+  xy: 1194, 7
+  size: 97, 82
+  orig: 117, 102
+  offset: 10, 10
+  index: -1
+lt_tou
+  rotate: false
+  xy: 644, 27
+  size: 170, 177
+  orig: 176, 181
+  offset: 3, 3
+  index: -1
+lt_touB
+  rotate: false
+  xy: 816, 27
+  size: 170, 177
+  orig: 176, 181
+  offset: 3, 3
+  index: -1
+lt_zhuL
+  rotate: false
+  xy: 718, 0
+  size: 12, 11
+  orig: 32, 31
+  offset: 10, 10
+  index: -1
+lt_zhuR
+  rotate: false
+  xy: 718, 13
+  size: 14, 12
+  orig: 34, 32
+  offset: 10, 10
+  index: -1
+lt_zui
+  rotate: false
+  xy: 1293, 124
+  size: 55, 30
+  orig: 70, 46
+  offset: 7, 8
+  index: -1
+
+laotou2.png
+size: 325,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xu/lt_biyan
+  rotate: false
+  xy: 200, 1
+  size: 61, 23
+  orig: 81, 43
+  offset: 10, 10
+  index: -1
+xu/lt_huzi
+  rotate: false
+  xy: 200, 26
+  size: 92, 38
+  orig: 105, 54
+  offset: 8, 8
+  index: -1
+xu/lt_mao1
+  rotate: false
+  xy: 0, 0
+  size: 198, 64
+  orig: 212, 76
+  offset: 7, 7
+  index: -1
+xu/lt_yanqiu
+  rotate: false
+  xy: 263, 2
+  size: 62, 22
+  orig: 82, 42
+  offset: 10, 10
+  index: -1

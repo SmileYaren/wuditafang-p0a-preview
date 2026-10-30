@@ -1,0 +1,83 @@
+
+qiangxieshi.png
+size: 204,384
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gx_2_1
+  rotate: false
+  xy: 88, 58
+  size: 22, 29
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+qxs_0
+  rotate: false
+  xy: 112, 141
+  size: 33, 31
+  orig: 53, 51
+  offset: 10, 10
+  index: -1
+qxs_1
+  rotate: false
+  xy: 148, 164
+  size: 47, 41
+  orig: 67, 61
+  offset: 10, 10
+  index: -1
+qxs_2
+  rotate: false
+  xy: 0, 270
+  size: 197, 113
+  orig: 217, 133
+  offset: 10, 10
+  index: -1
+qxs_3
+  rotate: false
+  xy: 0, 89
+  size: 110, 83
+  orig: 130, 103
+  offset: 10, 10
+  index: -1
+qxs_4
+  rotate: false
+  xy: 148, 207
+  size: 52, 61
+  orig: 70, 78
+  offset: 9, 9
+  index: -1
+qxs_5
+  rotate: false
+  xy: 112, 46
+  size: 90, 93
+  orig: 108, 128
+  offset: 8, 28
+  index: -1
+qxs_6
+  rotate: false
+  xy: 0, 28
+  size: 42, 59
+  orig: 62, 79
+  offset: 10, 10
+  index: -1
+qxs_7
+  rotate: false
+  xy: 0, 174
+  size: 146, 94
+  orig: 160, 109
+  offset: 7, 7
+  index: -1
+qxs_8
+  rotate: false
+  xy: 44, 30
+  size: 42, 57
+  orig: 62, 77
+  offset: 10, 10
+  index: -1
+qxs_9
+  rotate: false
+  xy: 88, 0
+  size: 30, 44
+  orig: 48, 79
+  offset: 9, 20
+  index: -1

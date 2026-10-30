@@ -1,0 +1,76 @@
+
+mlbai.png
+size: 244,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ml_1
+  rotate: false
+  xy: 145, 112
+  size: 32, 47
+  orig: 40, 55
+  offset: 4, 4
+  index: -1
+ml_10
+  rotate: false
+  xy: 0, 6
+  size: 143, 153
+  orig: 146, 157
+  offset: 2, 3
+  index: -1
+ml_2
+  rotate: false
+  xy: 189, 0
+  size: 44, 33
+  orig: 52, 41
+  offset: 4, 4
+  index: -1
+ml_3
+  rotate: false
+  xy: 145, 22
+  size: 42, 42
+  orig: 50, 50
+  offset: 4, 4
+  index: -1
+ml_4
+  rotate: false
+  xy: 186, 71
+  size: 42, 42
+  orig: 50, 50
+  offset: 4, 4
+  index: -1
+ml_5
+  rotate: false
+  xy: 213, 119
+  size: 26, 40
+  orig: 34, 48
+  offset: 4, 4
+  index: -1
+ml_6
+  rotate: false
+  xy: 216, 38
+  size: 27, 31
+  orig: 35, 39
+  offset: 4, 4
+  index: -1
+ml_7
+  rotate: false
+  xy: 145, 66
+  size: 39, 44
+  orig: 47, 52
+  offset: 4, 4
+  index: -1
+ml_8
+  rotate: false
+  xy: 189, 35
+  size: 25, 34
+  orig: 33, 42
+  offset: 4, 4
+  index: -1
+ml_9
+  rotate: false
+  xy: 179, 115
+  size: 32, 44
+  orig: 40, 52
+  offset: 4, 4
+  index: -1

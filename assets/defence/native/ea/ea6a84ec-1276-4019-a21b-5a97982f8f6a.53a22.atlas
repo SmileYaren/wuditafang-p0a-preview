@@ -1,0 +1,48 @@
+
+wdss.png
+size: 232,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wdss_fazhang
+  rotate: false
+  xy: 158, 103
+  size: 74, 107
+  orig: 94, 129
+  offset: 10, 10
+  index: -1
+wdss_maozi
+  rotate: false
+  xy: 0, 31
+  size: 123, 71
+  orig: 142, 87
+  offset: 8, 9
+  index: -1
+wdss_shenti
+  rotate: false
+  xy: 125, 4
+  size: 102, 97
+  orig: 118, 113
+  offset: 8, 8
+  index: -1
+wdss_tou
+  rotate: false
+  xy: 0, 104
+  size: 156, 106
+  orig: 176, 131
+  offset: 10, 15
+  index: -1
+wdss_youshou
+  rotate: false
+  xy: 0, 0
+  size: 30, 29
+  orig: 50, 49
+  offset: 10, 10
+  index: -1
+wdss_zuoshou
+  rotate: false
+  xy: 32, 0
+  size: 30, 29
+  orig: 50, 49
+  offset: 10, 10
+  index: -1

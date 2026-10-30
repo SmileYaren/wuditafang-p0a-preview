@@ -1,0 +1,90 @@
+
+libao.png
+size: 719,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lib_dai1
+  rotate: false
+  xy: 597, 83
+  size: 54, 77
+  orig: 69, 93
+  offset: 8, 8
+  index: -1
+lib_dai2
+  rotate: false
+  xy: 653, 114
+  size: 48, 46
+  orig: 68, 66
+  offset: 10, 10
+  index: -1
+lib_dai3
+  rotate: false
+  xy: 367, 0
+  size: 143, 101
+  orig: 157, 115
+  offset: 6, 8
+  index: -1
+lib_dai4
+  rotate: false
+  xy: 512, 6
+  size: 153, 75
+  orig: 165, 88
+  offset: 6, 8
+  index: -1
+lib_dai5
+  rotate: false
+  xy: 653, 85
+  size: 32, 27
+  orig: 52, 47
+  offset: 10, 10
+  index: -1
+lib_dai6
+  rotate: false
+  xy: 158, 43
+  size: 207, 95
+  orig: 215, 109
+  offset: 0, 6
+  index: -1
+lib_dai7
+  rotate: false
+  xy: 597, 205
+  size: 113, 39
+  orig: 167, 54
+  offset: 31, 9
+  index: -1
+lib_dai8
+  rotate: false
+  xy: 597, 162
+  size: 105, 41
+  orig: 147, 56
+  offset: 9, 7
+  index: -1
+lib_guang
+  rotate: false
+  xy: 430, 246
+  size: 289, 278
+  orig: 337, 337
+  offset: 21, 32
+  index: -1
+lib_he1
+  rotate: false
+  xy: 0, 140
+  size: 428, 384
+  orig: 448, 404
+  offset: 10, 10
+  index: -1
+lib_he2
+  rotate: false
+  xy: 430, 103
+  size: 165, 141
+  orig: 185, 162
+  offset: 10, 10
+  index: -1
+lib_he3
+  rotate: false
+  xy: 0, 6
+  size: 156, 132
+  orig: 176, 152
+  offset: 10, 10
+  index: -1

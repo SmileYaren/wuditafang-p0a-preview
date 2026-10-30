@@ -1,0 +1,34 @@
+
+bingcu.png
+size: 152,67
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bingkuai
+  rotate: false
+  xy: 100, 6
+  size: 28, 61
+  orig: 28, 61
+  offset: 0, 0
+  index: -1
+bingcu1
+  rotate: false
+  xy: 130, 38
+  size: 22, 29
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+bingcu2
+  rotate: false
+  xy: 130, 20
+  size: 14, 16
+  orig: 15, 17
+  offset: 0, 1
+  index: -1
+yan
+  rotate: false
+  xy: 0, 0
+  size: 98, 67
+  orig: 128, 98
+  offset: 0, 14
+  index: -1

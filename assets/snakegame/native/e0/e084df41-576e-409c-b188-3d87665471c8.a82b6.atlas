@@ -1,0 +1,55 @@
+
+shetou.png
+size: 393,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mao
+  rotate: false
+  xy: 310, 15
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 55
+  size: 210, 210
+  orig: 212, 213
+  offset: 1, 1
+  index: -1
+yan1
+  rotate: false
+  xy: 212, 169
+  size: 165, 96
+  orig: 167, 98
+  offset: 1, 1
+  index: -1
+yan2
+  rotate: false
+  xy: 167, 0
+  size: 120, 53
+  orig: 120, 53
+  offset: 0, 0
+  index: -1
+yan3
+  rotate: false
+  xy: 212, 56
+  size: 96, 28
+  orig: 96, 28
+  offset: 0, 0
+  index: -1
+yanpi1
+  rotate: false
+  xy: 0, 9
+  size: 165, 44
+  orig: 166, 44
+  offset: 1, 0
+  index: -1
+zui
+  rotate: false
+  xy: 212, 86
+  size: 181, 81
+  orig: 181, 81
+  offset: 0, 0
+  index: -1

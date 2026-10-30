@@ -1,0 +1,104 @@
+
+UI_arss.png
+size: 612,220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arss_pifeng
+  rotate: false
+  xy: 121, 87
+  size: 178, 132
+  orig: 185, 139
+  offset: 3, 4
+  index: -1
+arss_qunjia1
+  rotate: false
+  xy: 572, 149
+  size: 37, 32
+  orig: 51, 46
+  offset: 7, 7
+  index: -1
+arss_qunjia2
+  rotate: false
+  xy: 419, 26
+  size: 56, 41
+  orig: 70, 55
+  offset: 7, 7
+  index: -1
+arss_qunjia3
+  rotate: false
+  xy: 572, 183
+  size: 36, 36
+  orig: 51, 51
+  offset: 7, 7
+  index: -1
+arss_shenti
+  rotate: false
+  xy: 451, 125
+  size: 119, 94
+  orig: 125, 101
+  offset: 3, 4
+  index: -1
+arss_tou
+  rotate: false
+  xy: 301, 81
+  size: 148, 138
+  orig: 162, 152
+  offset: 7, 7
+  index: -1
+arss_wuqi
+  rotate: false
+  xy: 0, 3
+  size: 119, 216
+  orig: 133, 230
+  offset: 7, 7
+  index: -1
+arss_yougebo
+  rotate: false
+  xy: 121, 0
+  size: 84, 85
+  orig: 92, 95
+  offset: 3, 5
+  index: -1
+arss_youjianjia
+  rotate: false
+  xy: 451, 69
+  size: 68, 54
+  orig: 82, 69
+  offset: 7, 8
+  index: -1
+arss_youshou
+  rotate: false
+  xy: 477, 36
+  size: 31, 31
+  orig: 45, 45
+  offset: 7, 7
+  index: -1
+arss_youtui
+  rotate: false
+  xy: 357, 5
+  size: 60, 74
+  orig: 69, 83
+  offset: 4, 4
+  index: -1
+arss_zuojianjia
+  rotate: false
+  xy: 207, 19
+  size: 76, 66
+  orig: 90, 80
+  offset: 7, 7
+  index: -1
+arss_zuoshou
+  rotate: false
+  xy: 521, 26
+  size: 64, 97
+  orig: 74, 106
+  offset: 5, 4
+  index: -1
+arss_zuotui
+  rotate: false
+  xy: 285, 10
+  size: 70, 69
+  orig: 81, 80
+  offset: 6, 5
+  index: -1

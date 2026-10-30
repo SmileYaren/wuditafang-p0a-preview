@@ -1,0 +1,76 @@
+
+zisebao.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baofa_0
+  rotate: true
+  xy: 327, 37
+  size: 40, 38
+  orig: 120, 121
+  offset: 44, 42
+  index: -1
+baofa_1
+  rotate: true
+  xy: 327, 78
+  size: 56, 51
+  orig: 120, 121
+  offset: 36, 35
+  index: -1
+baofa_2
+  rotate: true
+  xy: 321, 135
+  size: 102, 86
+  orig: 120, 121
+  offset: 12, 19
+  index: -1
+baofa_3
+  rotate: true
+  xy: 221, 126
+  size: 111, 99
+  orig: 120, 121
+  offset: 9, 10
+  index: -1
+baofa_4
+  rotate: true
+  xy: 115, 12
+  size: 111, 110
+  orig: 120, 121
+  offset: 8, 4
+  index: -1
+baofa_5
+  rotate: false
+  xy: 1, 118
+  size: 111, 119
+  orig: 120, 121
+  offset: 8, 2
+  index: -1
+baofa_6
+  rotate: false
+  xy: 1, 1
+  size: 113, 116
+  orig: 120, 121
+  offset: 4, 1
+  index: -1
+baofa_7
+  rotate: true
+  xy: 113, 124
+  size: 113, 107
+  orig: 120, 121
+  offset: 3, 11
+  index: -1
+baofa_8
+  rotate: true
+  xy: 226, 15
+  size: 110, 100
+  orig: 120, 121
+  offset: 0, 11
+  index: -1
+yan
+  rotate: false
+  xy: 327, 1
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+duqipao.png
+size: 223,167
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+du
+  rotate: false
+  xy: 199, 142
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 0, 0
+  size: 197, 167
+  orig: 256, 197
+  offset: 0, 28
+  index: -1

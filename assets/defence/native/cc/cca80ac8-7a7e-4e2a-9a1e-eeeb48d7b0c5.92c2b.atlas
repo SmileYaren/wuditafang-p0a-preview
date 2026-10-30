@@ -1,0 +1,48 @@
+
+paotaibai.png
+size: 308,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pao_0
+  rotate: false
+  xy: 0, 0
+  size: 146, 127
+  orig: 155, 136
+  offset: 5, 5
+  index: -1
+pao_1
+  rotate: false
+  xy: 200, 10
+  size: 57, 57
+  orig: 62, 63
+  offset: 3, 3
+  index: -1
+pao_2
+  rotate: false
+  xy: 259, 2
+  size: 49, 65
+  orig: 54, 69
+  offset: 3, 3
+  index: -1
+pao_3
+  rotate: false
+  xy: 148, 72
+  size: 97, 55
+  orig: 105, 64
+  offset: 4, 4
+  index: -1
+pao_4
+  rotate: false
+  xy: 148, 4
+  size: 50, 66
+  orig: 54, 69
+  offset: 2, 2
+  index: -1
+pao_5
+  rotate: false
+  xy: 247, 69
+  size: 59, 58
+  orig: 63, 64
+  offset: 2, 3
+  index: -1

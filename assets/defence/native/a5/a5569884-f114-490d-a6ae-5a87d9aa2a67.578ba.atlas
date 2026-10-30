@@ -1,0 +1,41 @@
+
+cike2.png
+size: 663,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gx_1_1
+  rotate: false
+  xy: 0, 0
+  size: 131, 144
+  orig: 131, 144
+  offset: 0, 0
+  index: -1
+gx_1_2
+  rotate: false
+  xy: 133, 0
+  size: 131, 144
+  orig: 131, 144
+  offset: 0, 0
+  index: -1
+gx_1_3
+  rotate: false
+  xy: 266, 0
+  size: 131, 144
+  orig: 131, 144
+  offset: 0, 0
+  index: -1
+gx_1_4
+  rotate: false
+  xy: 399, 0
+  size: 131, 144
+  orig: 131, 144
+  offset: 0, 0
+  index: -1
+gx_1_5
+  rotate: false
+  xy: 532, 0
+  size: 131, 144
+  orig: 131, 144
+  offset: 0, 0
+  index: -1

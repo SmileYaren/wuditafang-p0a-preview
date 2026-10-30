@@ -1,0 +1,146 @@
+
+dianji.png
+size: 228,994
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lan/dian1
+  rotate: false
+  xy: 47, 491
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+lan/dian2
+  rotate: false
+  xy: 127, 389
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+lan/dian3
+  rotate: false
+  xy: 0, 306
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+lan/dian4
+  rotate: false
+  xy: 102, 287
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+lan/dian5
+  rotate: false
+  xy: 0, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+lan/dian6
+  rotate: false
+  xy: 102, 185
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+lan/dian7
+  rotate: false
+  xy: 0, 102
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+lan/dian8
+  rotate: false
+  xy: 102, 83
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+lan/dian9
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+lan/ld_0
+  rotate: false
+  xy: 187, 845
+  size: 41, 149
+  orig: 230, 256
+  offset: 84, 85
+  index: -1
+lan/ld_1
+  rotate: false
+  xy: 0, 532
+  size: 45, 146
+  orig: 230, 256
+  offset: 80, 86
+  index: -1
+lan/ld_10
+  rotate: false
+  xy: 149, 516
+  size: 65, 67
+  orig: 230, 256
+  offset: 50, 79
+  index: -1
+lan/ld_2
+  rotate: false
+  xy: 159, 585
+  size: 67, 149
+  orig: 230, 256
+  offset: 81, 85
+  index: -1
+lan/ld_3
+  rotate: false
+  xy: 104, 824
+  size: 81, 170
+  orig: 230, 256
+  offset: 68, 70
+  index: -1
+lan/ld_4
+  rotate: false
+  xy: 0, 680
+  size: 81, 157
+  orig: 230, 256
+  offset: 72, 71
+  index: -1
+lan/ld_5
+  rotate: false
+  xy: 0, 839
+  size: 102, 155
+  orig: 230, 256
+  offset: 58, 69
+  index: -1
+lan/ld_6
+  rotate: false
+  xy: 83, 593
+  size: 74, 141
+  orig: 230, 256
+  offset: 75, 70
+  index: -1
+lan/ld_7
+  rotate: false
+  xy: 83, 736
+  size: 125, 86
+  orig: 230, 256
+  offset: 50, 70
+  index: -1
+lan/ld_8
+  rotate: false
+  xy: 0, 408
+  size: 125, 81
+  orig: 230, 256
+  offset: 51, 73
+  index: -1
+lan/ld_9
+  rotate: false
+  xy: 102, 13
+  size: 126, 68
+  orig: 230, 256
+  offset: 50, 79
+  index: -1

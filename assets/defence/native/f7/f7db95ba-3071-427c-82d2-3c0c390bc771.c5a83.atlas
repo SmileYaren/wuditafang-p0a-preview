@@ -1,0 +1,20 @@
+
+xuanyun.png
+size: 50,79
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xing
+  rotate: false
+  xy: 0, 0
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+yun
+  rotate: false
+  xy: 0, 28
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1

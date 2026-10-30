@@ -1,0 +1,132 @@
+
+poxiaojijia2.png
+size: 340,796
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fuyoupao
+  rotate: false
+  xy: 239, 605
+  size: 89, 66
+  orig: 89, 66
+  offset: 0, 0
+  index: -1
+tx/0
+  rotate: false
+  xy: 182, 650
+  size: 55, 55
+  orig: 68, 68
+  offset: 9, 7
+  index: -1
+tx/1
+  rotate: false
+  xy: 182, 593
+  size: 55, 55
+  orig: 68, 68
+  offset: 9, 7
+  index: -1
+tx/2
+  rotate: false
+  xy: 272, 673
+  size: 56, 56
+  orig: 68, 68
+  offset: 9, 6
+  index: -1
+tx/fashe1
+  rotate: false
+  xy: 272, 731
+  size: 66, 64
+  orig: 387, 85
+  offset: 260, 5
+  index: -1
+tx/fashe10
+  rotate: false
+  xy: 0, 38
+  size: 320, 40
+  orig: 387, 85
+  offset: 2, 18
+  index: -1
+tx/fashe11
+  rotate: false
+  xy: 0, 0
+  size: 316, 36
+  orig: 387, 85
+  offset: 4, 21
+  index: -1
+tx/fashe2
+  rotate: false
+  xy: 0, 361
+  size: 327, 68
+  orig: 387, 85
+  offset: 1, 4
+  index: -1
+tx/fashe3
+  rotate: false
+  xy: 0, 512
+  size: 329, 79
+  orig: 387, 85
+  offset: 1, 0
+  index: -1
+tx/fashe4
+  rotate: false
+  xy: 0, 291
+  size: 326, 68
+  orig: 387, 85
+  offset: 4, 4
+  index: -1
+tx/fashe5
+  rotate: false
+  xy: 0, 431
+  size: 327, 79
+  orig: 387, 85
+  offset: 3, 0
+  index: -1
+tx/fashe6
+  rotate: false
+  xy: 0, 227
+  size: 327, 62
+  orig: 387, 85
+  offset: 3, 6
+  index: -1
+tx/fashe7
+  rotate: false
+  xy: 0, 171
+  size: 327, 54
+  orig: 387, 85
+  offset: 3, 12
+  index: -1
+tx/fashe8
+  rotate: false
+  xy: 0, 123
+  size: 330, 46
+  orig: 387, 85
+  offset: 0, 15
+  index: -1
+tx/fashe9
+  rotate: false
+  xy: 0, 80
+  size: 329, 41
+  orig: 387, 85
+  offset: 1, 18
+  index: -1
+tx/fyp_huo
+  rotate: false
+  xy: 239, 678
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+tx/fyp_ji
+  rotate: false
+  xy: 182, 707
+  size: 88, 88
+  orig: 88, 89
+  offset: 0, 0
+  index: -1
+tx/light_2
+  rotate: false
+  xy: 0, 615
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1

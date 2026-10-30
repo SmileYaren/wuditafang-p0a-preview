@@ -1,0 +1,76 @@
+
+qiangxieshibai.png
+size: 284,344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qxs_0
+  rotate: false
+  xy: 160, 174
+  size: 45, 43
+  orig: 53, 51
+  offset: 4, 4
+  index: -1
+qxs_1
+  rotate: false
+  xy: 211, 213
+  size: 59, 53
+  orig: 67, 61
+  offset: 4, 4
+  index: -1
+qxs_2
+  rotate: false
+  xy: 0, 219
+  size: 209, 125
+  orig: 217, 133
+  offset: 4, 4
+  index: -1
+qxs_3
+  rotate: false
+  xy: 160, 77
+  size: 122, 95
+  orig: 130, 103
+  offset: 4, 4
+  index: -1
+qxs_4
+  rotate: false
+  xy: 211, 268
+  size: 69, 76
+  orig: 70, 78
+  offset: 1, 2
+  index: -1
+qxs_5
+  rotate: false
+  xy: 0, 1
+  size: 104, 106
+  orig: 108, 128
+  offset: 1, 21
+  index: -1
+qxs_6
+  rotate: false
+  xy: 150, 0
+  size: 56, 75
+  orig: 62, 79
+  offset: 3, 2
+  index: -1
+qxs_7
+  rotate: false
+  xy: 0, 109
+  size: 158, 108
+  orig: 160, 109
+  offset: 0, 1
+  index: -1
+qxs_8
+  rotate: false
+  xy: 208, 6
+  size: 54, 69
+  orig: 62, 77
+  offset: 4, 4
+  index: -1
+qxs_9
+  rotate: false
+  xy: 106, 51
+  size: 42, 56
+  orig: 48, 79
+  offset: 3, 14
+  index: -1

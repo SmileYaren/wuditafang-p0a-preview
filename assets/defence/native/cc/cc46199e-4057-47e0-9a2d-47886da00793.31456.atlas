@@ -1,0 +1,55 @@
+
+shuju.png
+size: 119,541
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuma0
+  rotate: false
+  xy: 0, 374
+  size: 119, 80
+  orig: 128, 128
+  offset: 7, 44
+  index: -1
+shuma10
+  rotate: false
+  xy: 0, 456
+  size: 119, 85
+  orig: 128, 128
+  offset: 7, 36
+  index: -1
+shuma12
+  rotate: false
+  xy: 0, 144
+  size: 119, 72
+  orig: 128, 128
+  offset: 7, 53
+  index: -1
+shuma2
+  rotate: false
+  xy: 0, 218
+  size: 119, 72
+  orig: 128, 128
+  offset: 7, 40
+  index: -1
+shuma4
+  rotate: false
+  xy: 0, 71
+  size: 119, 71
+  orig: 128, 128
+  offset: 7, 43
+  index: -1
+shuma6
+  rotate: false
+  xy: 0, 292
+  size: 119, 80
+  orig: 128, 128
+  offset: 7, 40
+  index: -1
+shuma8
+  rotate: false
+  xy: 0, 0
+  size: 119, 69
+  orig: 128, 128
+  offset: 7, 48
+  index: -1

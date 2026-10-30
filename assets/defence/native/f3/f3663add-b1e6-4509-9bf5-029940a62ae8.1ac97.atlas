@@ -1,0 +1,41 @@
+
+luoxuan.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huo0
+  rotate: false
+  xy: 72, 1
+  size: 186, 50
+  orig: 201, 55
+  offset: 10, 5
+  index: -1
+huo12
+  rotate: false
+  xy: 72, 52
+  size: 199, 54
+  orig: 201, 55
+  offset: 2, 0
+  index: -1
+huo4
+  rotate: false
+  xy: 259, 1
+  size: 186, 50
+  orig: 201, 55
+  offset: 9, 4
+  index: -1
+huo8
+  rotate: false
+  xy: 272, 52
+  size: 195, 54
+  orig: 201, 55
+  offset: 3, 0
+  index: -1
+long
+  rotate: true
+  xy: 1, 39
+  size: 67, 70
+  orig: 67, 71
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+UI_fbzxg.png
+size: 216,468
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zxg_0
+  rotate: false
+  xy: 116, 7
+  size: 25, 34
+  orig: 39, 48
+  offset: 7, 7
+  index: -1
+zxg_1
+  rotate: false
+  xy: 78, 16
+  size: 36, 52
+  orig: 50, 67
+  offset: 7, 8
+  index: -1
+zxg_10
+  rotate: false
+  xy: 122, 43
+  size: 93, 109
+  orig: 107, 123
+  offset: 7, 7
+  index: -1
+zxg_2
+  rotate: false
+  xy: 125, 224
+  size: 89, 84
+  orig: 104, 98
+  offset: 8, 7
+  index: -1
+zxg_3
+  rotate: false
+  xy: 0, 0
+  size: 76, 68
+  orig: 91, 82
+  offset: 7, 7
+  index: -1
+zxg_4
+  rotate: false
+  xy: 0, 70
+  size: 120, 119
+  orig: 134, 133
+  offset: 7, 7
+  index: -1
+zxg_5
+  rotate: false
+  xy: 0, 315
+  size: 135, 150
+  orig: 143, 158
+  offset: 4, 4
+  index: -1
+zxg_6
+  rotate: false
+  xy: 137, 310
+  size: 61, 85
+  orig: 75, 99
+  offset: 7, 7
+  index: -1
+zxg_7
+  rotate: false
+  xy: 0, 191
+  size: 123, 122
+  orig: 137, 136
+  offset: 7, 7
+  index: -1
+zxg_8
+  rotate: false
+  xy: 125, 154
+  size: 86, 68
+  orig: 100, 82
+  offset: 7, 7
+  index: -1
+zxg_9
+  rotate: false
+  xy: 137, 397
+  size: 77, 68
+  orig: 91, 82
+  offset: 7, 7
+  index: -1

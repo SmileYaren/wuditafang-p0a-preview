@@ -1,0 +1,27 @@
+
+manren2.png
+size: 158,60
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gx1_1
+  rotate: false
+  xy: 0, 2
+  size: 72, 58
+  orig: 73, 62
+  offset: 0, 4
+  index: -1
+gx1_2
+  rotate: false
+  xy: 74, 0
+  size: 45, 60
+  orig: 73, 62
+  offset: 0, 0
+  index: -1
+gx1_3
+  rotate: false
+  xy: 121, 16
+  size: 37, 44
+  orig: 73, 62
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+ym.png
+size: 223,418
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ym_yanpi
+  rotate: false
+  xy: 0, 231
+  size: 149, 187
+  orig: 162, 187
+  offset: 13, 0
+  index: -1
+ym_yanzhu
+  rotate: false
+  xy: 0, 114
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+ym_yanzhuhui
+  rotate: false
+  xy: 0, 0
+  size: 113, 112
+  orig: 115, 115
+  offset: 2, 0
+  index: -1
+ym_youya1
+  rotate: false
+  xy: 151, 267
+  size: 60, 151
+  orig: 62, 153
+  offset: 1, 1
+  index: -1
+ym_youya2
+  rotate: false
+  xy: 151, 170
+  size: 43, 95
+  orig: 45, 107
+  offset: 1, 10
+  index: -1
+ym_zuoya
+  rotate: false
+  xy: 117, 7
+  size: 106, 161
+  orig: 110, 163
+  offset: 3, 1
+  index: -1

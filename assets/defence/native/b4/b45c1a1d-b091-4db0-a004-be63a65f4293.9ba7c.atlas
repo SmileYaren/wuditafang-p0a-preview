@@ -1,0 +1,118 @@
+
+cike.png
+size: 386,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ck_shenti
+  rotate: false
+  xy: 0, 0
+  size: 45, 43
+  orig: 68, 66
+  offset: 11, 13
+  index: -1
+ck_tou
+  rotate: false
+  xy: 0, 45
+  size: 128, 103
+  orig: 148, 123
+  offset: 10, 10
+  index: -1
+ck_weiba
+  rotate: false
+  xy: 267, 121
+  size: 110, 27
+  orig: 124, 41
+  offset: 8, 7
+  index: -1
+ck_weibo
+  rotate: false
+  xy: 347, 52
+  size: 39, 32
+  orig: 59, 52
+  offset: 10, 10
+  index: -1
+ck_youbishou
+  rotate: false
+  xy: 186, 5
+  size: 53, 52
+  orig: 73, 72
+  offset: 10, 10
+  index: -1
+ck_youerduo
+  rotate: false
+  xy: 130, 59
+  size: 67, 89
+  orig: 82, 103
+  offset: 9, 7
+  index: -1
+ck_yougebo
+  rotate: false
+  xy: 241, 11
+  size: 63, 48
+  orig: 79, 66
+  offset: 8, 10
+  index: -1
+ck_youjiao
+  rotate: false
+  xy: 47, 0
+  size: 41, 43
+  orig: 57, 59
+  offset: 8, 8
+  index: -1
+ck_youshou
+  rotate: false
+  xy: 306, 47
+  size: 39, 37
+  orig: 59, 57
+  offset: 10, 10
+  index: -1
+ck_youtui
+  rotate: false
+  xy: 306, 19
+  size: 29, 26
+  orig: 49, 46
+  offset: 10, 10
+  index: -1
+ck_zuobishou
+  rotate: false
+  xy: 306, 86
+  size: 63, 33
+  orig: 83, 53
+  offset: 10, 10
+  index: -1
+ck_zuoerduo
+  rotate: false
+  xy: 199, 61
+  size: 66, 87
+  orig: 79, 102
+  offset: 7, 8
+  index: -1
+ck_zuogebo
+  rotate: false
+  xy: 137, 2
+  size: 47, 55
+  orig: 63, 72
+  offset: 7, 9
+  index: -1
+ck_zuojiao
+  rotate: false
+  xy: 90, 4
+  size: 45, 39
+  orig: 60, 55
+  offset: 7, 8
+  index: -1
+ck_zuoshou
+  rotate: false
+  xy: 267, 80
+  size: 37, 39
+  orig: 57, 59
+  offset: 10, 10
+  index: -1
+ck_zuotui
+  rotate: false
+  xy: 347, 20
+  size: 33, 30
+  orig: 53, 50
+  offset: 10, 10
+  index: -1

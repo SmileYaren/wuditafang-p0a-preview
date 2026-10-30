@@ -1,0 +1,40 @@
+
+bei.png
+size: 231,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bei2
+  rotate: false
+  xy: 138, 0
+  size: 93, 104
+  orig: 113, 124
+  offset: 10, 10
+  index: -1
+bei3
+  rotate: false
+  xy: 0, 22
+  size: 136, 82
+  orig: 145, 96
+  offset: 6, 8
+  index: -1
+bei4
+  rotate: false
+  xy: 0, 3
+  size: 21, 17
+  orig: 41, 37
+  offset: 10, 10
+  index: -1
+
+bei2.png
+size: 55,42
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xu/bei1
+  rotate: false
+  xy: 0, 0
+  size: 55, 42
+  orig: 71, 58
+  offset: 8, 8
+  index: -1

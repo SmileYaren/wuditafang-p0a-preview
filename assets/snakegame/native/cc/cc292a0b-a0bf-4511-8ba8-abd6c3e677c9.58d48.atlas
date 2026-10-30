@@ -1,0 +1,55 @@
+
+l2.png
+size: 1467,645
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dg
+  rotate: false
+  xy: 2, 349
+  size: 1383, 294
+  orig: 1415, 317
+  offset: 18, 12
+  index: -1
+fazhen
+  rotate: false
+  xy: 1387, 426
+  size: 78, 217
+  orig: 82, 223
+  offset: 2, 3
+  index: -1
+loop1
+  rotate: false
+  xy: 2, 21
+  size: 1136, 143
+  orig: 1136, 143
+  offset: 0, 0
+  index: -1
+loop2
+  rotate: false
+  xy: 2, 166
+  size: 1355, 181
+  orig: 1355, 181
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 1140, 2
+  size: 164, 162
+  orig: 172, 170
+  offset: 4, 4
+  index: -1
+xian1
+  rotate: false
+  xy: 1306, 56
+  size: 148, 108
+  orig: 148, 108
+  offset: 0, 0
+  index: -1
+xian2
+  rotate: false
+  xy: 1359, 290
+  size: 90, 57
+  orig: 90, 57
+  offset: 0, 0
+  index: -1

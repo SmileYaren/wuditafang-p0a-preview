@@ -1,0 +1,41 @@
+
+paotai2.png
+size: 328,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gx_1_1
+  rotate: false
+  xy: 284, 14
+  size: 41, 53
+  orig: 73, 68
+  offset: 29, 7
+  index: -1
+gx_1_2
+  rotate: false
+  xy: 147, 4
+  size: 70, 63
+  orig: 73, 68
+  offset: 1, 3
+  index: -1
+gx_1_3
+  rotate: false
+  xy: 0, 2
+  size: 72, 65
+  orig: 73, 68
+  offset: 1, 2
+  index: -1
+gx_1_4
+  rotate: false
+  xy: 74, 3
+  size: 71, 64
+  orig: 73, 68
+  offset: 1, 2
+  index: -1
+gx_1_5
+  rotate: false
+  xy: 219, 0
+  size: 63, 67
+  orig: 73, 68
+  offset: 9, 0
+  index: -1

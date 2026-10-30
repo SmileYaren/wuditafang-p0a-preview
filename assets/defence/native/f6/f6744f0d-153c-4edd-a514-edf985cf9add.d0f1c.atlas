@@ -1,0 +1,48 @@
+
+yunshi.png
+size: 707,65
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yunshi/yun_0
+  rotate: false
+  xy: 279, 0
+  size: 131, 65
+  orig: 138, 66
+  offset: 0, 0
+  index: -1
+yunshi/yun_2
+  rotate: false
+  xy: 542, 0
+  size: 127, 65
+  orig: 138, 66
+  offset: 0, 0
+  index: -1
+yunshi/yun_4
+  rotate: false
+  xy: 412, 0
+  size: 128, 65
+  orig: 138, 66
+  offset: 0, 0
+  index: -1
+yunshi/yun_6
+  rotate: false
+  xy: 140, 2
+  size: 137, 63
+  orig: 138, 66
+  offset: 0, 2
+  index: -1
+yunshi/yun_8
+  rotate: false
+  xy: 0, 2
+  size: 138, 63
+  orig: 138, 66
+  offset: 0, 1
+  index: -1
+yunshi/yunshi
+  rotate: false
+  xy: 671, 29
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1

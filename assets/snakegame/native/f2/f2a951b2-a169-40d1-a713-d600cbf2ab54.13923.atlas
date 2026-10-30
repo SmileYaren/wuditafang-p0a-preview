@@ -1,0 +1,97 @@
+
+longtou.png
+size: 234,482
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 188, 186
+  size: 26, 53
+  orig: 26, 53
+  offset: 0, 0
+  index: -1
+l_aL
+  rotate: false
+  xy: 193, 275
+  size: 26, 50
+  orig: 26, 51
+  offset: 0, 1
+  index: -1
+l_aR
+  rotate: false
+  xy: 177, 69
+  size: 26, 50
+  orig: 26, 51
+  offset: 0, 1
+  index: -1
+l_bL
+  rotate: false
+  xy: 224, 454
+  size: 10, 28
+  orig: 10, 28
+  offset: 0, 0
+  index: -1
+l_bR
+  rotate: false
+  xy: 224, 424
+  size: 10, 28
+  orig: 10, 28
+  offset: 0, 0
+  index: -1
+l_cL
+  rotate: false
+  xy: 224, 413
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+l_cR
+  rotate: false
+  xy: 224, 402
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+l_dL
+  rotate: false
+  xy: 152, 181
+  size: 34, 58
+  orig: 34, 59
+  offset: 0, 1
+  index: -1
+l_dR
+  rotate: false
+  xy: 177, 121
+  size: 34, 58
+  orig: 34, 59
+  offset: 0, 1
+  index: -1
+l_jiao
+  rotate: false
+  xy: 0, 327
+  size: 222, 155
+  orig: 222, 155
+  offset: 0, 0
+  index: -1
+l_shetou
+  rotate: false
+  xy: 152, 241
+  size: 39, 84
+  orig: 39, 84
+  offset: 0, 0
+  index: -1
+l_tou
+  rotate: false
+  xy: 0, 131
+  size: 150, 194
+  orig: 150, 194
+  offset: 0, 0
+  index: -1
+l_xiaba
+  rotate: false
+  xy: 0, 0
+  size: 175, 129
+  orig: 175, 129
+  offset: 0, 0
+  index: -1

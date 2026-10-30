@@ -1,0 +1,55 @@
+
+shandianjs.png
+size: 1832,824
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sd1
+  rotate: false
+  xy: 1374, 22
+  size: 455, 406
+  orig: 535, 506
+  offset: 12, 5
+  index: -1
+sd2
+  rotate: false
+  xy: 943, 0
+  size: 429, 362
+  orig: 535, 506
+  offset: 104, 142
+  index: -1
+sd3
+  rotate: false
+  xy: 1351, 430
+  size: 470, 394
+  orig: 535, 506
+  offset: 4, 1
+  index: -1
+sd4
+  rotate: false
+  xy: 525, 358
+  size: 416, 466
+  orig: 535, 506
+  offset: 104, 8
+  index: -1
+sd5
+  rotate: false
+  xy: 0, 8
+  size: 517, 347
+  orig: 535, 506
+  offset: 5, 139
+  index: -1
+sd6
+  rotate: false
+  xy: 0, 357
+  size: 523, 467
+  orig: 535, 506
+  offset: 4, 10
+  index: -1
+sd7
+  rotate: false
+  xy: 943, 364
+  size: 406, 460
+  orig: 407, 471
+  offset: 1, 7
+  index: -1

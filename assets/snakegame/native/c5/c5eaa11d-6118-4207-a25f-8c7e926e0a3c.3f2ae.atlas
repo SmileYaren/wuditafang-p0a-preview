@@ -1,0 +1,76 @@
+
+ta1_2bz.png
+size: 1136,127
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Baiyuan
+  rotate: false
+  xy: 1053, 44
+  size: 83, 83
+  orig: 89, 89
+  offset: 3, 3
+  index: -1
+kabao10
+  rotate: false
+  xy: 125, 0
+  size: 121, 127
+  orig: 144, 144
+  offset: 6, 5
+  index: -1
+kabao12
+  rotate: false
+  xy: 248, 5
+  size: 124, 122
+  orig: 144, 144
+  offset: 2, 14
+  index: -1
+kabao16
+  rotate: false
+  xy: 842, 7
+  size: 105, 120
+  orig: 144, 144
+  offset: 19, 10
+  index: -1
+kabao18
+  rotate: false
+  xy: 614, 4
+  size: 109, 123
+  orig: 144, 144
+  offset: 18, 9
+  index: -1
+kabao22
+  rotate: false
+  xy: 374, 3
+  size: 118, 124
+  orig: 144, 144
+  offset: 14, 12
+  index: -1
+kabao24
+  rotate: false
+  xy: 494, 2
+  size: 118, 125
+  orig: 144, 144
+  offset: 12, 13
+  index: -1
+kabao28
+  rotate: false
+  xy: 0, 1
+  size: 123, 126
+  orig: 144, 144
+  offset: 10, 14
+  index: -1
+kabao4
+  rotate: false
+  xy: 949, 21
+  size: 102, 106
+  orig: 144, 144
+  offset: 13, 14
+  index: -1
+kabao6
+  rotate: false
+  xy: 725, 12
+  size: 115, 115
+  orig: 144, 144
+  offset: 4, 9
+  index: -1

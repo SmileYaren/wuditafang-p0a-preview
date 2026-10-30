@@ -1,0 +1,13 @@
+
+qiangxieshi2.png
+size: 40,48
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gx_1
+  rotate: false
+  xy: 0, 0
+  size: 37, 47
+  orig: 37, 49
+  offset: 0, 1
+  index: -1

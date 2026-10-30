@@ -1,0 +1,90 @@
+
+klzhanshi.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+klzhanshi_0
+  rotate: false
+  xy: 452, 135
+  size: 44, 44
+  orig: 64, 64
+  offset: 10, 10
+  index: -1
+klzhanshi_1
+  rotate: true
+  xy: 372, 239
+  size: 12, 13
+  orig: 32, 33
+  offset: 10, 10
+  index: -1
+klzhanshi_10
+  rotate: true
+  xy: 386, 7
+  size: 110, 42
+  orig: 131, 63
+  offset: 10, 10
+  index: -1
+klzhanshi_11
+  rotate: false
+  xy: 372, 223
+  size: 12, 15
+  orig: 32, 35
+  offset: 10, 10
+  index: -1
+klzhanshi_2
+  rotate: true
+  xy: 429, 19
+  size: 98, 81
+  orig: 118, 101
+  offset: 10, 10
+  index: -1
+klzhanshi_3
+  rotate: true
+  xy: 1, 5
+  size: 246, 192
+  orig: 266, 212
+  offset: 10, 10
+  index: -1
+klzhanshi_4
+  rotate: false
+  xy: 194, 1
+  size: 100, 104
+  orig: 120, 124
+  offset: 10, 10
+  index: -1
+klzhanshi_5
+  rotate: true
+  xy: 295, 3
+  size: 102, 90
+  orig: 122, 110
+  offset: 10, 10
+  index: -1
+klzhanshi_6
+  rotate: false
+  xy: 386, 180
+  size: 119, 71
+  orig: 139, 92
+  offset: 10, 11
+  index: -1
+klzhanshi_7
+  rotate: true
+  xy: 194, 106
+  size: 145, 115
+  orig: 162, 131
+  offset: 9, 8
+  index: -1
+klzhanshi_8
+  rotate: false
+  xy: 372, 118
+  size: 79, 61
+  orig: 97, 80
+  offset: 8, 9
+  index: -1
+klzhanshi_9
+  rotate: true
+  xy: 310, 117
+  size: 62, 61
+  orig: 81, 80
+  offset: 9, 9
+  index: -1

@@ -1,0 +1,202 @@
+
+jidilingzhu.png
+size: 640,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoshi1_1
+  rotate: false
+  xy: 393, 149
+  size: 154, 122
+  orig: 166, 130
+  offset: 6, 4
+  index: -1
+baoshi1_2
+  rotate: false
+  xy: 0, 13
+  size: 87, 48
+  orig: 89, 50
+  offset: 1, 1
+  index: -1
+baoshi1_3
+  rotate: false
+  xy: 89, 13
+  size: 87, 48
+  orig: 89, 50
+  offset: 1, 1
+  index: -1
+baoshi1_4
+  rotate: false
+  xy: 393, 99
+  size: 87, 48
+  orig: 89, 50
+  offset: 1, 1
+  index: -1
+baoshi1_5
+  rotate: false
+  xy: 482, 99
+  size: 87, 48
+  orig: 89, 50
+  offset: 1, 1
+  index: -1
+baoshi1_6
+  rotate: false
+  xy: 178, 55
+  size: 87, 48
+  orig: 89, 50
+  offset: 1, 1
+  index: -1
+baoshi1_7
+  rotate: false
+  xy: 267, 55
+  size: 87, 48
+  orig: 89, 50
+  offset: 1, 1
+  index: -1
+baoshi1_8
+  rotate: false
+  xy: 178, 5
+  size: 87, 48
+  orig: 87, 48
+  offset: 0, 0
+  index: -1
+baoshi1_9
+  rotate: false
+  xy: 267, 5
+  size: 87, 48
+  orig: 89, 50
+  offset: 1, 1
+  index: -1
+baoshi2_1
+  rotate: false
+  xy: 549, 175
+  size: 81, 96
+  orig: 87, 103
+  offset: 3, 4
+  index: -1
+baoshi2_2
+  rotate: false
+  xy: 356, 6
+  size: 39, 56
+  orig: 41, 58
+  offset: 1, 1
+  index: -1
+baoshi2_3
+  rotate: false
+  xy: 397, 41
+  size: 39, 56
+  orig: 41, 58
+  offset: 1, 1
+  index: -1
+baoshi2_4
+  rotate: false
+  xy: 438, 41
+  size: 39, 56
+  orig: 41, 58
+  offset: 1, 1
+  index: -1
+baoshi2_5
+  rotate: false
+  xy: 479, 41
+  size: 39, 56
+  orig: 41, 58
+  offset: 1, 1
+  index: -1
+baoshi2_6
+  rotate: false
+  xy: 520, 41
+  size: 39, 56
+  orig: 41, 58
+  offset: 1, 1
+  index: -1
+baoshi2_7
+  rotate: false
+  xy: 561, 41
+  size: 39, 56
+  orig: 41, 58
+  offset: 1, 1
+  index: -1
+baoshi3_1
+  rotate: false
+  xy: 571, 105
+  size: 60, 68
+  orig: 68, 76
+  offset: 4, 4
+  index: -1
+baoshi3_2
+  rotate: false
+  xy: 356, 64
+  size: 28, 39
+  orig: 30, 41
+  offset: 1, 1
+  index: -1
+baoshi3_3
+  rotate: false
+  xy: 397, 0
+  size: 28, 39
+  orig: 30, 41
+  offset: 1, 1
+  index: -1
+baoshi3_4
+  rotate: false
+  xy: 427, 0
+  size: 28, 39
+  orig: 30, 41
+  offset: 1, 1
+  index: -1
+baoshi3_5
+  rotate: false
+  xy: 457, 0
+  size: 28, 39
+  orig: 30, 41
+  offset: 1, 1
+  index: -1
+baoshi3_6
+  rotate: false
+  xy: 487, 0
+  size: 28, 39
+  orig: 30, 41
+  offset: 1, 1
+  index: -1
+guangquan1
+  rotate: false
+  xy: 601, 306
+  size: 28, 80
+  orig: 31, 84
+  offset: 1, 2
+  index: -1
+guangquan2
+  rotate: false
+  xy: 601, 388
+  size: 37, 126
+  orig: 40, 130
+  offset: 2, 2
+  index: -1
+guangshu1
+  rotate: false
+  xy: 0, 63
+  size: 174, 40
+  orig: 180, 49
+  offset: 4, 3
+  index: -1
+juese
+  rotate: false
+  xy: 0, 105
+  size: 391, 409
+  orig: 393, 411
+  offset: 1, 1
+  index: -1
+lizi1
+  rotate: false
+  xy: 601, 284
+  size: 21, 20
+  orig: 25, 24
+  offset: 2, 2
+  index: -1
+toufa
+  rotate: false
+  xy: 393, 273
+  size: 206, 241
+  orig: 208, 243
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,97 @@
+
+kbz.png
+size: 728,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kbz_bianzi
+  rotate: false
+  xy: 554, 124
+  size: 67, 48
+  orig: 87, 68
+  offset: 10, 10
+  index: -1
+kbz_shenti
+  rotate: false
+  xy: 447, 0
+  size: 109, 98
+  orig: 122, 111
+  offset: 6, 7
+  index: -1
+kbz_tou1
+  rotate: false
+  xy: 221, 81
+  size: 119, 91
+  orig: 139, 113
+  offset: 10, 12
+  index: -1
+kbz_tou2_1
+  rotate: false
+  xy: 94, 75
+  size: 125, 97
+  orig: 136, 114
+  offset: 6, 9
+  index: -1
+kbz_tou2_2
+  rotate: false
+  xy: 218, 17
+  size: 102, 56
+  orig: 122, 76
+  offset: 10, 10
+  index: -1
+kbz_yougebo1
+  rotate: false
+  xy: 643, 33
+  size: 83, 139
+  orig: 93, 152
+  offset: 6, 7
+  index: -1
+kbz_yougebo2
+  rotate: false
+  xy: 322, 2
+  size: 123, 77
+  orig: 136, 88
+  offset: 6, 5
+  index: -1
+kbz_yougebo3
+  rotate: false
+  xy: 342, 81
+  size: 62, 91
+  orig: 78, 106
+  offset: 8, 8
+  index: -1
+kbz_youtui1
+  rotate: false
+  xy: 478, 104
+  size: 74, 68
+  orig: 88, 83
+  offset: 6, 8
+  index: -1
+kbz_zuogebo1
+  rotate: false
+  xy: 0, 30
+  size: 92, 142
+  orig: 104, 152
+  offset: 6, 7
+  index: -1
+kbz_zuogebo2
+  rotate: false
+  xy: 94, 0
+  size: 122, 73
+  orig: 137, 88
+  offset: 7, 8
+  index: -1
+kbz_zuogebo3
+  rotate: false
+  xy: 558, 12
+  size: 83, 110
+  orig: 98, 123
+  offset: 7, 7
+  index: -1
+kbz_zuotui1
+  rotate: false
+  xy: 406, 100
+  size: 70, 72
+  orig: 86, 87
+  offset: 8, 8
+  index: -1

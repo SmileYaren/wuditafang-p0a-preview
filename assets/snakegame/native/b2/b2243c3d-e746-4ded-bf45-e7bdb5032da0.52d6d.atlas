@@ -1,0 +1,27 @@
+
+dangong.png
+size: 71,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gong1
+  rotate: false
+  xy: 0, 27
+  size: 71, 98
+  orig: 71, 98
+  offset: 0, 0
+  index: -1
+gong2
+  rotate: false
+  xy: 0, 0
+  size: 69, 25
+  orig: 72, 27
+  offset: 1, 1
+  index: -1
+gong3
+  rotate: false
+  xy: 0, 127
+  size: 68, 135
+  orig: 68, 135
+  offset: 0, 0
+  index: -1

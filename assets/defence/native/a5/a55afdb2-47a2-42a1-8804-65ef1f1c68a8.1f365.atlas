@@ -1,0 +1,83 @@
+
+rrs.png
+size: 964,175
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rrs_huo1
+  rotate: false
+  xy: 119, 2
+  size: 116, 173
+  orig: 119, 180
+  offset: 3, 7
+  index: -1
+rrs_huo2
+  rotate: false
+  xy: 354, 0
+  size: 113, 175
+  orig: 116, 182
+  offset: 3, 7
+  index: -1
+rrs_huo3
+  rotate: false
+  xy: 0, 0
+  size: 117, 175
+  orig: 120, 182
+  offset: 3, 7
+  index: -1
+rrs_huo4
+  rotate: false
+  xy: 469, 7
+  size: 113, 168
+  orig: 116, 175
+  offset: 3, 7
+  index: -1
+rrs_huo5
+  rotate: false
+  xy: 584, 4
+  size: 111, 171
+  orig: 114, 178
+  offset: 3, 7
+  index: -1
+rrs_huo6
+  rotate: false
+  xy: 237, 2
+  size: 115, 173
+  orig: 118, 180
+  offset: 3, 7
+  index: -1
+rrs_shenti
+  rotate: false
+  xy: 843, 81
+  size: 69, 94
+  orig: 84, 108
+  offset: 7, 9
+  index: -1
+rrs_tou1
+  rotate: false
+  xy: 697, 69
+  size: 144, 106
+  orig: 164, 126
+  offset: 10, 10
+  index: -1
+rrs_tou2
+  rotate: false
+  xy: 914, 80
+  size: 50, 95
+  orig: 70, 115
+  offset: 10, 10
+  index: -1
+rrs_youshou
+  rotate: false
+  xy: 902, 14
+  size: 57, 64
+  orig: 74, 79
+  offset: 8, 8
+  index: -1
+rrs_zuoshou
+  rotate: false
+  xy: 843, 9
+  size: 57, 70
+  orig: 73, 86
+  offset: 7, 8
+  index: -1

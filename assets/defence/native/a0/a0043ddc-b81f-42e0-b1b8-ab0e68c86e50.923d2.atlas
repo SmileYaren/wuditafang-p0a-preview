@@ -1,0 +1,76 @@
+
+sxg.png
+size: 137,410
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sxg_chibang
+  rotate: false
+  xy: 0, 48
+  size: 68, 74
+  orig: 83, 87
+  offset: 7, 5
+  index: -1
+sxg_shenti
+  rotate: false
+  xy: 0, 206
+  size: 82, 84
+  orig: 96, 101
+  offset: 7, 9
+  index: -1
+sxg_tou
+  rotate: false
+  xy: 0, 292
+  size: 130, 118
+  orig: 150, 138
+  offset: 10, 10
+  index: -1
+sxg_tou2
+  rotate: false
+  xy: 52, 0
+  size: 53, 25
+  orig: 73, 45
+  offset: 10, 10
+  index: -1
+sxg_weiba
+  rotate: false
+  xy: 0, 14
+  size: 50, 32
+  orig: 67, 49
+  offset: 9, 8
+  index: -1
+sxg_youshou
+  rotate: false
+  xy: 0, 124
+  size: 69, 80
+  orig: 82, 92
+  offset: 6, 5
+  index: -1
+sxg_youtui
+  rotate: false
+  xy: 70, 27
+  size: 45, 57
+  orig: 60, 75
+  offset: 8, 9
+  index: -1
+sxg_zuobi
+  rotate: false
+  xy: 84, 151
+  size: 48, 65
+  orig: 63, 77
+  offset: 7, 7
+  index: -1
+sxg_zuoshou
+  rotate: false
+  xy: 71, 86
+  size: 66, 63
+  orig: 81, 75
+  offset: 8, 6
+  index: -1
+sxg_zuotui
+  rotate: false
+  xy: 84, 218
+  size: 49, 72
+  orig: 66, 89
+  offset: 9, 9
+  index: -1

@@ -1,0 +1,20 @@
+
+jiamofa.png
+size: 18,105
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai
+  rotate: false
+  xy: 0, 0
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+bai_0
+  rotate: false
+  xy: 0, 20
+  size: 4, 85
+  orig: 6, 89
+  offset: 1, 2
+  index: -1

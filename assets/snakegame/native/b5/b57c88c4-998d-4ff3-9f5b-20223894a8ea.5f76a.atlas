@@ -1,0 +1,111 @@
+
+shibai.png
+size: 1589,218
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 0, 0
+  size: 506, 218
+  orig: 508, 229
+  offset: 1, 2
+  index: -1
+bg2
+  rotate: false
+  xy: 508, 0
+  size: 506, 218
+  orig: 508, 229
+  offset: 1, 2
+  index: -1
+lan
+  rotate: false
+  xy: 1016, 76
+  size: 302, 142
+  orig: 305, 145
+  offset: 2, 2
+  index: -1
+mao
+  rotate: false
+  xy: 1248, 30
+  size: 48, 44
+  orig: 48, 49
+  offset: 0, 4
+  index: -1
+sb_lian1
+  rotate: false
+  xy: 1110, 20
+  size: 44, 54
+  orig: 46, 56
+  offset: 1, 1
+  index: -1
+sb_lian2
+  rotate: false
+  xy: 1156, 20
+  size: 44, 54
+  orig: 47, 56
+  offset: 2, 1
+  index: -1
+sb_yan
+  rotate: false
+  xy: 1523, 25
+  size: 43, 48
+  orig: 45, 50
+  offset: 1, 1
+  index: -1
+sb_zui
+  rotate: false
+  xy: 1298, 12
+  size: 42, 44
+  orig: 44, 47
+  offset: 1, 2
+  index: -1
+shen
+  rotate: false
+  xy: 1458, 75
+  size: 131, 143
+  orig: 131, 144
+  offset: 0, 0
+  index: -1
+tou1
+  rotate: false
+  xy: 1320, 58
+  size: 136, 160
+  orig: 138, 162
+  offset: 1, 1
+  index: -1
+tou2
+  rotate: false
+  xy: 1202, 20
+  size: 44, 54
+  orig: 46, 56
+  offset: 1, 1
+  index: -1
+yan
+  rotate: false
+  xy: 1016, 14
+  size: 92, 60
+  orig: 96, 63
+  offset: 2, 1
+  index: -1
+zui1
+  rotate: false
+  xy: 1458, 53
+  size: 63, 20
+  orig: 66, 23
+  offset: 1, 2
+  index: -1
+zui2
+  rotate: false
+  xy: 1370, 21
+  size: 24, 35
+  orig: 27, 37
+  offset: 1, 1
+  index: -1
+zui3
+  rotate: false
+  xy: 1342, 19
+  size: 26, 37
+  orig: 28, 40
+  offset: 1, 1
+  index: -1

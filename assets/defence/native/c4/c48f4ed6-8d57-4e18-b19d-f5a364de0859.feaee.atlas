@@ -1,0 +1,104 @@
+
+zhantai.png
+size: 557,58
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ztc_0
+  rotate: false
+  xy: 443, 14
+  size: 57, 11
+  orig: 59, 13
+  offset: 1, 1
+  index: -1
+ztc_1
+  rotate: false
+  xy: 389, 1
+  size: 25, 24
+  orig: 27, 26
+  offset: 1, 1
+  index: -1
+ztc_2
+  rotate: false
+  xy: 502, 15
+  size: 42, 10
+  orig: 45, 12
+  offset: 2, 1
+  index: -1
+ztc_3
+  rotate: false
+  xy: 207, 0
+  size: 89, 24
+  orig: 91, 31
+  offset: 1, 6
+  index: -1
+ztc_4
+  rotate: false
+  xy: 357, 27
+  size: 99, 31
+  orig: 101, 36
+  offset: 1, 1
+  index: -1
+ztc_5
+  rotate: false
+  xy: 207, 26
+  size: 73, 32
+  orig: 76, 34
+  offset: 2, 1
+  index: -1
+ztc_6
+  rotate: false
+  xy: 96, 7
+  size: 109, 51
+  orig: 115, 57
+  offset: 3, 3
+  index: -1
+zth_0
+  rotate: false
+  xy: 443, 1
+  size: 57, 11
+  orig: 59, 13
+  offset: 1, 1
+  index: -1
+zth_1
+  rotate: false
+  xy: 416, 1
+  size: 25, 24
+  orig: 27, 26
+  offset: 1, 1
+  index: -1
+zth_2
+  rotate: false
+  xy: 502, 3
+  size: 42, 10
+  orig: 45, 12
+  offset: 2, 1
+  index: -1
+zth_3
+  rotate: false
+  xy: 298, 0
+  size: 89, 24
+  orig: 91, 31
+  offset: 1, 6
+  index: -1
+zth_4
+  rotate: false
+  xy: 458, 27
+  size: 99, 31
+  orig: 101, 36
+  offset: 1, 1
+  index: -1
+zth_5
+  rotate: false
+  xy: 282, 26
+  size: 73, 32
+  orig: 76, 34
+  offset: 2, 1
+  index: -1
+zth_6
+  rotate: false
+  xy: 0, 2
+  size: 94, 56
+  orig: 100, 62
+  offset: 3, 3
+  index: -1

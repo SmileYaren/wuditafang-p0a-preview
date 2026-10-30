@@ -1,0 +1,272 @@
+
+yunluo.png
+size: 2015,443
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BZ_1_1
+  rotate: false
+  xy: 94, 1
+  size: 81, 80
+  orig: 128, 128
+  offset: 27, 15
+  index: -1
+BZ_1_10
+  rotate: false
+  xy: 1908, 339
+  size: 107, 104
+  orig: 128, 128
+  offset: 5, 20
+  index: -1
+BZ_1_11
+  rotate: false
+  xy: 688, 0
+  size: 108, 86
+  orig: 128, 128
+  offset: 4, 38
+  index: -1
+BZ_1_12
+  rotate: false
+  xy: 1908, 274
+  size: 106, 63
+  orig: 128, 128
+  offset: 6, 37
+  index: -1
+BZ_1_13
+  rotate: false
+  xy: 1908, 217
+  size: 105, 55
+  orig: 128, 128
+  offset: 7, 42
+  index: -1
+BZ_1_14
+  rotate: false
+  xy: 1763, 43
+  size: 83, 47
+  orig: 128, 128
+  offset: 24, 48
+  index: -1
+BZ_1_15
+  rotate: false
+  xy: 1848, 54
+  size: 49, 36
+  orig: 128, 128
+  offset: 27, 48
+  index: -1
+BZ_1_16
+  rotate: false
+  xy: 1801, 5
+  size: 24, 36
+  orig: 128, 128
+  offset: 52, 48
+  index: -1
+BZ_1_2
+  rotate: false
+  xy: 1902, 17
+  size: 95, 92
+  orig: 128, 128
+  offset: 20, 12
+  index: -1
+BZ_1_3
+  rotate: false
+  xy: 1903, 111
+  size: 104, 104
+  orig: 128, 128
+  offset: 16, 12
+  index: -1
+BZ_1_4
+  rotate: false
+  xy: 668, 88
+  size: 110, 107
+  orig: 128, 128
+  offset: 14, 12
+  index: -1
+BZ_1_5
+  rotate: false
+  xy: 94, 83
+  size: 110, 109
+  orig: 128, 128
+  offset: 12, 13
+  index: -1
+BZ_1_6
+  rotate: false
+  xy: 442, 86
+  size: 112, 108
+  orig: 128, 128
+  offset: 12, 12
+  index: -1
+BZ_1_7
+  rotate: false
+  xy: 206, 84
+  size: 116, 108
+  orig: 128, 128
+  offset: 8, 16
+  index: -1
+BZ_1_8
+  rotate: false
+  xy: 324, 86
+  size: 116, 108
+  orig: 128, 128
+  offset: 8, 16
+  index: -1
+BZ_1_9
+  rotate: false
+  xy: 556, 87
+  size: 110, 108
+  orig: 128, 128
+  offset: 4, 16
+  index: -1
+BZ_2_1
+  rotate: false
+  xy: 0, 194
+  size: 244, 249
+  orig: 273, 273
+  offset: 17, 18
+  index: -1
+BZ_2_2
+  rotate: false
+  xy: 246, 196
+  size: 258, 247
+  orig: 273, 273
+  offset: 15, 18
+  index: -1
+BZ_2_3
+  rotate: false
+  xy: 743, 213
+  size: 253, 230
+  orig: 273, 273
+  offset: 0, 26
+  index: -1
+BZ_2_4
+  rotate: false
+  xy: 506, 197
+  size: 235, 246
+  orig: 273, 273
+  offset: 17, 27
+  index: -1
+BZ_2_5
+  rotate: false
+  xy: 998, 216
+  size: 233, 227
+  orig: 273, 273
+  offset: 20, 27
+  index: -1
+BZ_2_6
+  rotate: false
+  xy: 1233, 217
+  size: 233, 226
+  orig: 273, 273
+  offset: 20, 27
+  index: -1
+BZ_2_7
+  rotate: false
+  xy: 1468, 222
+  size: 218, 221
+  orig: 273, 273
+  offset: 19, 27
+  index: -1
+BZ_2_8
+  rotate: false
+  xy: 1688, 222
+  size: 218, 221
+  orig: 273, 273
+  offset: 20, 27
+  index: -1
+BZ_2_9
+  rotate: false
+  xy: 1543, 3
+  size: 218, 217
+  orig: 273, 273
+  offset: 21, 28
+  index: -1
+BZ_3_1
+  rotate: false
+  xy: 0, 26
+  size: 92, 166
+  orig: 116, 232
+  offset: 7, 32
+  index: -1
+BZ_3_2
+  rotate: false
+  xy: 1432, 19
+  size: 109, 196
+  orig: 116, 232
+  offset: 2, 18
+  index: -1
+BZ_3_3
+  rotate: false
+  xy: 1321, 17
+  size: 109, 198
+  orig: 116, 232
+  offset: 4, 17
+  index: -1
+BZ_3_4
+  rotate: false
+  xy: 1215, 12
+  size: 104, 202
+  orig: 116, 232
+  offset: 5, 15
+  index: -1
+GX_GY1
+  rotate: false
+  xy: 798, 4
+  size: 207, 207
+  orig: 209, 209
+  offset: 0, 0
+  index: -1
+GX_GY2
+  rotate: false
+  xy: 1007, 8
+  size: 206, 206
+  orig: 232, 232
+  offset: 13, 13
+  index: -1
+keng
+  rotate: false
+  xy: 569, 20
+  size: 117, 65
+  orig: 118, 65
+  offset: 0, 0
+  index: -1
+yunshi/yun_0
+  rotate: false
+  xy: 177, 16
+  size: 131, 65
+  orig: 138, 66
+  offset: 0, 0
+  index: -1
+yunshi/yun_2
+  rotate: false
+  xy: 440, 19
+  size: 127, 65
+  orig: 138, 66
+  offset: 0, 0
+  index: -1
+yunshi/yun_4
+  rotate: false
+  xy: 310, 17
+  size: 128, 65
+  orig: 138, 66
+  offset: 0, 0
+  index: -1
+yunshi/yun_6
+  rotate: false
+  xy: 1763, 92
+  size: 137, 63
+  orig: 138, 66
+  offset: 0, 2
+  index: -1
+yunshi/yun_8
+  rotate: false
+  xy: 1763, 157
+  size: 138, 63
+  orig: 138, 66
+  offset: 0, 1
+  index: -1
+yunshi/yunshi
+  rotate: false
+  xy: 1763, 5
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1

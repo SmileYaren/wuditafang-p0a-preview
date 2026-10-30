@@ -1,0 +1,104 @@
+
+wms.png
+size: 137,579
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gx2_1
+  rotate: false
+  xy: 91, 259
+  size: 28, 38
+  orig: 63, 79
+  offset: 14, 16
+  index: -1
+gx2_2
+  rotate: false
+  xy: 63, 23
+  size: 55, 74
+  orig: 63, 79
+  offset: 3, 2
+  index: -1
+gx2_3
+  rotate: false
+  xy: 70, 99
+  size: 60, 78
+  orig: 63, 79
+  offset: 1, 0
+  index: -1
+gx2_4
+  rotate: false
+  xy: 70, 179
+  size: 63, 78
+  orig: 63, 79
+  offset: 0, 1
+  index: -1
+gx2_5
+  rotate: false
+  xy: 0, 92
+  size: 61, 74
+  orig: 63, 79
+  offset: 0, 1
+  index: -1
+wms_fazhang
+  rotate: false
+  xy: 0, 168
+  size: 68, 90
+  orig: 88, 110
+  offset: 10, 10
+  index: -1
+wms_shenti
+  rotate: false
+  xy: 0, 260
+  size: 89, 84
+  orig: 105, 99
+  offset: 8, 8
+  index: -1
+wms_tou
+  rotate: false
+  xy: 0, 452
+  size: 130, 127
+  orig: 150, 147
+  offset: 10, 10
+  index: -1
+wms_youshou
+  rotate: false
+  xy: 0, 0
+  size: 60, 39
+  orig: 77, 55
+  offset: 9, 8
+  index: -1
+wms_youtui
+  rotate: false
+  xy: 96, 348
+  size: 37, 47
+  orig: 53, 63
+  offset: 7, 9
+  index: -1
+wms_zaozi
+  rotate: false
+  xy: 0, 346
+  size: 94, 104
+  orig: 94, 104
+  offset: 0, 0
+  index: -1
+wms_zuochibang
+  rotate: false
+  xy: 0, 41
+  size: 57, 49
+  orig: 77, 69
+  offset: 10, 10
+  index: -1
+wms_zuoshou
+  rotate: false
+  xy: 96, 397
+  size: 41, 53
+  orig: 56, 68
+  offset: 7, 8
+  index: -1
+wms_zuotui
+  rotate: false
+  xy: 96, 299
+  size: 35, 47
+  orig: 53, 63
+  offset: 9, 9
+  index: -1

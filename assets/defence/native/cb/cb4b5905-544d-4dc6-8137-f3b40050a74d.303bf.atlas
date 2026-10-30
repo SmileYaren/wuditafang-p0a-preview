@@ -1,0 +1,76 @@
+
+sxgbai.png
+size: 476,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sxg_chibang
+  rotate: false
+  xy: 323, 77
+  size: 82, 87
+  orig: 83, 87
+  offset: 0, 0
+  index: -1
+sxg_shenti
+  rotate: false
+  xy: 144, 67
+  size: 95, 97
+  orig: 96, 101
+  offset: 0, 2
+  index: -1
+sxg_tou
+  rotate: false
+  xy: 0, 34
+  size: 142, 130
+  orig: 150, 138
+  offset: 4, 4
+  index: -1
+sxg_tou2
+  rotate: false
+  xy: 210, 28
+  size: 65, 37
+  orig: 73, 45
+  offset: 4, 4
+  index: -1
+sxg_weiba
+  rotate: false
+  xy: 144, 18
+  size: 64, 47
+  orig: 67, 49
+  offset: 1, 0
+  index: -1
+sxg_youshou
+  rotate: false
+  xy: 241, 73
+  size: 80, 91
+  orig: 82, 92
+  offset: 0, 0
+  index: -1
+sxg_youtui
+  rotate: false
+  xy: 277, 1
+  size: 56, 70
+  orig: 60, 75
+  offset: 3, 3
+  index: -1
+sxg_zuobi
+  rotate: false
+  xy: 416, 3
+  size: 59, 74
+  orig: 63, 77
+  offset: 1, 1
+  index: -1
+sxg_zuoshou
+  rotate: false
+  xy: 335, 0
+  size: 79, 75
+  orig: 81, 75
+  offset: 1, 0
+  index: -1
+sxg_zuotui
+  rotate: false
+  xy: 407, 79
+  size: 64, 85
+  orig: 66, 89
+  offset: 0, 3
+  index: -1

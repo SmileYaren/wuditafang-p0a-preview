@@ -1,0 +1,90 @@
+
+dafenghuang.png
+size: 708,1001
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dfh_0
+  rotate: false
+  xy: 179, 48
+  size: 227, 207
+  orig: 227, 207
+  offset: 0, 0
+  index: -1
+dfh_1
+  rotate: false
+  xy: 648, 479
+  size: 60, 137
+  orig: 60, 137
+  offset: 0, 0
+  index: -1
+dfh_2
+  rotate: false
+  xy: 564, 76
+  size: 69, 115
+  orig: 69, 115
+  offset: 0, 0
+  index: -1
+dfh_3
+  rotate: false
+  xy: 564, 193
+  size: 96, 148
+  orig: 96, 148
+  offset: 0, 0
+  index: -1
+dfh_4
+  rotate: false
+  xy: 0, 598
+  size: 380, 403
+  orig: 380, 403
+  offset: 0, 0
+  index: -1
+dfh_5
+  rotate: false
+  xy: 0, 71
+  size: 177, 525
+  orig: 177, 525
+  offset: 0, 0
+  index: -1
+dfh_6
+  rotate: false
+  xy: 382, 618
+  size: 267, 383
+  orig: 267, 383
+  offset: 0, 0
+  index: -1
+dfh_7
+  rotate: false
+  xy: 179, 257
+  size: 257, 339
+  orig: 257, 339
+  offset: 0, 0
+  index: -1
+dfh_8
+  rotate: false
+  xy: 438, 0
+  size: 124, 341
+  orig: 124, 341
+  offset: 0, 0
+  index: -1
+dfh_9
+  rotate: false
+  xy: 438, 343
+  size: 208, 273
+  orig: 208, 273
+  offset: 0, 0
+  index: -1
+z_guang
+  rotate: false
+  xy: 0, 8
+  size: 52, 61
+  orig: 52, 63
+  offset: 0, 1
+  index: -1
+zuan
+  rotate: false
+  xy: 651, 959
+  size: 32, 42
+  orig: 32, 43
+  offset: 0, 1
+  index: -1

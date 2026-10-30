@@ -1,0 +1,83 @@
+
+wudubao.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yanbao0
+  rotate: false
+  xy: 355, 28
+  size: 15, 16
+  orig: 185, 143
+  offset: 81, 29
+  index: -1
+yanbao1
+  rotate: true
+  xy: 812, 68
+  size: 59, 49
+  orig: 185, 143
+  offset: 63, 17
+  index: -1
+yanbao10
+  rotate: true
+  xy: 736, 40
+  size: 87, 75
+  orig: 185, 143
+  offset: 69, 26
+  index: -1
+yanbao2
+  rotate: true
+  xy: 657, 36
+  size: 91, 78
+  orig: 185, 143
+  offset: 43, 17
+  index: -1
+yanbao3
+  rotate: true
+  xy: 572, 19
+  size: 108, 84
+  orig: 185, 143
+  offset: 35, 16
+  index: -1
+yanbao4
+  rotate: true
+  xy: 483, 12
+  size: 115, 88
+  orig: 185, 143
+  offset: 33, 16
+  index: -1
+yanbao5
+  rotate: true
+  xy: 266, 7
+  size: 120, 88
+  orig: 185, 143
+  offset: 31, 16
+  index: -1
+yanbao6
+  rotate: true
+  xy: 177, 6
+  size: 121, 88
+  orig: 185, 143
+  offset: 31, 17
+  index: -1
+yanbao7
+  rotate: true
+  xy: 1, 2
+  size: 125, 88
+  orig: 185, 143
+  offset: 29, 17
+  index: -1
+yanbao8
+  rotate: true
+  xy: 90, 1
+  size: 126, 86
+  orig: 185, 143
+  offset: 29, 19
+  index: -1
+yanbao9
+  rotate: false
+  xy: 355, 45
+  size: 127, 82
+  orig: 185, 143
+  offset: 28, 19
+  index: -1

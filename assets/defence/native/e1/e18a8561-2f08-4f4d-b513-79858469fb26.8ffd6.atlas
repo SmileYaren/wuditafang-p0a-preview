@@ -1,0 +1,48 @@
+
+wdssbai.png
+size: 256,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wdss_fazhang
+  rotate: false
+  xy: 170, 127
+  size: 86, 119
+  orig: 94, 129
+  offset: 4, 4
+  index: -1
+wdss_maozi
+  rotate: false
+  xy: 116, 0
+  size: 140, 82
+  orig: 142, 87
+  offset: 0, 3
+  index: -1
+wdss_shenti
+  rotate: false
+  xy: 0, 11
+  size: 114, 111
+  orig: 118, 113
+  offset: 2, 2
+  index: -1
+wdss_tou
+  rotate: false
+  xy: 0, 124
+  size: 168, 122
+  orig: 176, 131
+  offset: 4, 5
+  index: -1
+wdss_youshou
+  rotate: false
+  xy: 170, 84
+  size: 42, 41
+  orig: 50, 49
+  offset: 4, 4
+  index: -1
+wdss_zuoshou
+  rotate: false
+  xy: 214, 84
+  size: 42, 41
+  orig: 50, 49
+  offset: 4, 4
+  index: -1
